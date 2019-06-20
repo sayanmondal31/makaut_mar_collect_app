@@ -1,4 +1,9 @@
 # makaut_points
+here is demo of this project
+![point_main](https://user-images.githubusercontent.com/43213197/59826953-14ae9600-9355-11e9-94fb-a0a06e49dec2.png)
+![point_sem](https://user-images.githubusercontent.com/43213197/59826960-1710f000-9355-11e9-845c-cebc7290ee44.png)
+![point_show](https://user-images.githubusercontent.com/43213197/59826967-1a0be080-9355-11e9-86aa-97102316f342.png)
+
 
 A new Flutter project.
 
